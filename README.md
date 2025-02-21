@@ -27,3 +27,6 @@ Developers want to have categorized training questions that are separate from th
 Developers want to know that the training data they are using is "balanced" (does not contain biases) because this will give them better AI models.
 
 ---
+## Step 1. Analyze the Current Need of the client and gather detail Information 
+First, we will take a closer look at the two main requirements provided and analyze them using best practices. 
+
