@@ -32,11 +32,11 @@ First, we will take a closer look at the two main needs provided and analyze the
 
 **1 need. Training Questions :** Developers want to have categorized training questions that are separate from the answers because developers care about self-affirmation.
 
-#-	Analysis:
+#### Analysis:
 -	*Clarity: * The requirement is clear in its intent to separate questions from answers.
 -	*Specificity:* It specifies that categorization is needed, but it could be more specific about how the categorization should be done (e.g., tags, folders).
 -	*Achievability:* It is achievable with the right tools and methods.
-# Client Questions for Requirement Gathering on Categorized Training Questions
+### Client Questions for Requirement Gathering on Categorized Training Questions
 (Goal: Understand how training questions should be structured and managed.)
 1.	How do you currently categorize training questions?
 2.	What specific categories do you use for training questions?
@@ -46,11 +46,11 @@ First, we will take a closer look at the two main needs provided and analyze the
 6.	What is the expected response time for categorizing training data?
 **2 need. Balanced Training Data :** Developers want to know that the training data they are using is “balanced” (does not contain biases) because this will give them better AI models.
 
-#-	Analysis:
+#### Analysis:
 -	*Clarity: *The requirement is clear in its intent to have balanced, unbiased training data.
 -	*Specificity:* It specifies the need for balanced data but could be more specific about how to measure and achieve balance.
 -	*Achievability:* It is achievable with the right algorithms and methods for bias detection and correction.
-# Client Questions for Requirement Gathering on Balanced Training Data
+### Client Questions for Requirement Gathering on Balanced Training Data
 (Goal: Ensure training data is free from biases and properly structured.)
 1.	How do you define "balanced" training data?
 2.	What biases are you most concerned about in your training data?
@@ -58,7 +58,7 @@ First, we will take a closer look at the two main needs provided and analyze the
 4.	How frequently should bias detection be performed?
 5.	Should developers be able to adjust bias parameters manually?
 6.	How do you currently validate whether a dataset is balanced? Do you have specific benchmarks for bias detection accuracy?
-# General Verification Questions for Client: 
+### General Verification Questions for Client: 
 (Goal: To generate appropriate system usage requirements)
 1.	Do you have any examples or use cases that illustrate your needs?
 2.	Do you have preference for who have access to edit training questions and categories?
@@ -67,7 +67,7 @@ First, we will take a closer look at the two main needs provided and analyze the
 5.	What security measures are you currently using what should be implemented? (e.g., encryption, 2FA, role-based access)
 6.	Should access logs be kept for compliance tracking?
 7.	How will you measure the success of this project?
-# Assumptions :
+### Assumptions :
 -	The client currently lacks an automated system for categorizing training questions.
 -	Developers have different preferences for category customization, requiring manual and automated options.
 -	Bias detection should be transparent and adjustable for developers.
