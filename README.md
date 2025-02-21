@@ -31,8 +31,9 @@ Developers want to know that the training data they are using is "balanced" (doe
 First, we will take a closer look at the two main needs provided and analyze them using best practices. 
 
 **1 need. Training Questions :** Developers want to have categorized training questions that are separate from the answers because developers care about self-affirmation.
-#-	**Analysis:**
--	*Clarity:* The requirement is clear in its intent to separate questions from answers.
+
+#-	Analysis:
+-	*Clarity: * The requirement is clear in its intent to separate questions from answers.
 -	*Specificity:* It specifies that categorization is needed, but it could be more specific about how the categorization should be done (e.g., tags, folders).
 -	*Achievability:* It is achievable with the right tools and methods.
 # Client Questions for Requirement Gathering on Categorized Training Questions
@@ -44,6 +45,7 @@ First, we will take a closer look at the two main needs provided and analyze the
 5.	How do you expect the interface for managing categorized questions to look like?
 6.	What is the expected response time for categorizing training data?
 **2 need. Balanced Training Data :** Developers want to know that the training data they are using is “balanced” (does not contain biases) because this will give them better AI models.
+
 #-	Analysis:
 -	*Clarity: *The requirement is clear in its intent to have balanced, unbiased training data.
 -	*Specificity:* It specifies the need for balanced data but could be more specific about how to measure and achieve balance.
