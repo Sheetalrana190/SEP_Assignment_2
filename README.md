@@ -72,3 +72,6 @@ First, we will take a closer look at the two main needs provided and analyze the
 -	Developers have different preferences for category customization, requiring manual and automated options.
 -	Bias detection should be transparent and adjustable for developers.
 -	The system will integrate with existing AI model training environments.
+
+## Step 2: Define Requirements
+The functional, non-functional and system requirements were structured based on collected data.
