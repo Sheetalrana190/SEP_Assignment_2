@@ -93,3 +93,12 @@ The functional and non-functional were structured based on collected data from c
 
 ## Step 3 : Define System Requirements:
 Based on the functional and non-functional requirement above system requirements are drawn for developmet team
+1.	Implement data base to store question and answer separately.
+2.	Implement a classification algorithm to automatically tag training questions.
+3.	Provide an interface for users to manage categorized training questions.
+4.	Integrate bias detection algorithms for analyzing training data.
+5.	Store training data in a secure, scalable database.
+6.	Use a role-based access control system to manage permissions.
+7.	Implement audit logging to track changes in training data.
+8.	Integrate with existing AI model training workflows.
+
