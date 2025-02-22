@@ -75,3 +75,19 @@ First, we will take a closer look at the two main needs provided and analyze the
 
 ## Step 2: Define Requirements
 The functional, non-functional and system requirements were structured based on collected data.
+
+### 1. Training Questions:
+#### Functional Requirements:
+1.	The system shall separate questions from answers for self-affirmation training.
+2.	The system shall allow developers to categorize training questions manually and automatically.
+3.	The system shall enable users to filter, search, and manage categorized questions.
+#### Non-Functional Requirements:
+1.	The system shall process training data categorization within 5 seconds per request.
+### 2. Balanced Training Data:
+#### Functional Requirements:
+1.	The system shall include a mechanism to detect and highlight biases in training data.
+2.	The system shall generate reports on data balance and bias detection.
+3.	Developers shall be able to adjust and fine-tune bias detection criteria.
+#### Non-Functional Requirements:
+1.	The bias detection mechanism shall flag issues with at least 90% accuracy.
+
