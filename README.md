@@ -238,6 +238,10 @@ As a AI developer, I want to adjust bias detection settings, so I can fine-tune 
 -	Goal: Enable auditing of all data modifications.
 -	Outcome: AI developers have full visibility into changes and actions taken on the data.
 
+## Step 6: Validating all Requirements and Userstories with customer
+Verify the Requirenments that are written and the user storys created with the client AI developer. Ask for the feedback and open for changes suggested.
+
+
 ## References
 [1]Lecture slides Week-4-Analysis for developing path for processing the problem statement of the assignment.
 
