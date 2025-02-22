@@ -74,7 +74,7 @@ First, we will take a closer look at the two main needs provided and analyze the
 -	The system will integrate with existing AI model training environments.
 
 ## Step 2: Define Requirements
-The functional, non-functional and system requirements were structured based on collected data.
+The functional and non-functional were structured based on collected data from client and for verifiaction from client open for changes in it.
 
 ### 1. Training Questions:
 #### Functional Requirements:
@@ -91,3 +91,5 @@ The functional, non-functional and system requirements were structured based on 
 #### Non-Functional Requirements:
 1.	The bias detection mechanism shall flag issues with at least 90% accuracy.
 
+## Step 3 : Define System Requirements:
+Based on the functional and non-functional requirement above system requirements are drawn for developmet team
