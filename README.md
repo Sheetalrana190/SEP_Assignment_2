@@ -43,7 +43,9 @@ First, we will take a closer look at the two main needs provided and analyze the
 3.	Do you require the system to suggest categories automatically?
 4.	Should developers be able to create custom categories?
 5.	How do you expect the interface for managing categorized questions to look like?
-6.	What is the expected response time for categorizing training data?
+6.	What is the expected response time for categorizing training data?  
+
+
 **2 need. Balanced Training Data :** Developers want to know that the training data they are using is “balanced” (does not contain biases) because this will give them better AI models.
 
 #### Analysis:
