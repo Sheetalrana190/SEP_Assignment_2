@@ -240,11 +240,17 @@ As a AI developer, I want to adjust bias detection settings, so I can fine-tune 
 
 ## References
 [1]Lecture slides Week-4-Analysis for developing path for processing the problem statement of the assignment.
+
 [2]Lecture slides Week-5-SRS for writing Requirements in correct form.
+
 [3]Lecture slide Week-6-Use-Cases for developing user stories.
+
 [4]Markdown Guide. (n.d.). Basic syntax. Markdown Guide. Retrieved February 10, 2025, from https://www.markdownguide.org/basic-syntax/
+
 [5]Microsoft. (n.d.). Copilot. Microsoft. https://copilot.cloud.microsoft/?fromcode=cmc&redirectid=324BF8029B384E2B91B0B0ECD36A67D4&auth=2
+
 [6]Prompt I have an AI AI developer client facing this problem... | Try in Microsoft 365 Copilot
+
 I have an AI AI developer client facing this problem AI developers want to have categorized training questions that are separate from the answers because AI developers care about self-affirmation. - AI developers want to know that the training data they are using is “balanced” (does not contain biases) because this will give them better AI models. what is the best way to solve this problems?
 
 Response
