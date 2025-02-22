@@ -104,3 +104,13 @@ Based on the functional and non-functional requirement above system requirements
 
 
 ## Step 4. Develop user interface dialogs : Interaction flow between user and system
+This how the system will look like for client 
+-	Design an interface where answers are not visible by default and require user interaction to view.
+-	Only authorized users (e.g., reviewers) can access answers.
+-	Ensure the AI learns from questions without seeing answers initially, followed by a separate validation phase.
+-	Provides a dashboard for managing training question categories and bias detection.
+-	Uses machine learning models for bias detection and classification automation.
+-	Stores training data securely with version control and audit tracking.
+-	Integrates seamlessly with existing AI training pipelines using API endpoints.
+-	Implements an intuitive UI/UX that requires minimal onboarding for developers.
+
