@@ -114,3 +114,5 @@ This how the system will look like for client
 -	Integrates seamlessly with existing AI training pipelines using API endpoints.
 -	Implements an intuitive UI/UX that requires minimal onboarding for developers.
 
+## Step 5. Classified the major requirements and put them in user stories to take the project further.
+
