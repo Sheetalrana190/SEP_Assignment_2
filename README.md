@@ -120,7 +120,7 @@ This how the system will look like for client
 ### 1.1-Title: Viewing Training Questions Without Answers
 As an AI developer, I want the system to present only training questions by default, so that I can conduct self-affirmation training without being influenced by answers.
 
-###1.1.1- Default Question View
+### 1.1.1- Default Question View
 “As an AI developer, I want to view questions cards of the selected category, so that I can conduct self-affirmation training without being influenced by answers”
 -	Goal : Implement search engine for questions to train on.
 -	Expected outcomes: View questions card
@@ -259,4 +259,9 @@ Ensuring Balanced Training Data
 2.	Diverse Data Sources: Ensure that the training data comes from diverse sources to minimize inherent biases. This includes considering different demographics, geographies, and contexts.
 3.	Regular Audits: Conduct regular audits of the training data to identify and address any biases. This can involve statistical analysis and manual reviews.
 4.	Feedback Loop: Implement a feedback loop where AI developers and users can report biases they encounter. This helps in continuously improving the dataset.
-By implementing these strategies, your client can create a more effective and fair AI development process. Does this help address the issues your client is facing? 
+By implementing these strategies, your client can create a more effective and fair AI development process. Does this help address the issues your client is facing?   
+
+
+Remark : The lecture slides from wee4 to week 6 and the Microsoft copilot prompt help me and guided me for the assignment
+
+
