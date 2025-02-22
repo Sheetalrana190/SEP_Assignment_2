@@ -237,3 +237,26 @@ As a AI developer, I want to adjust bias detection settings, so I can fine-tune 
 "As a AI developer, I want access to an audit log that records changes to the data and categories, so I can maintain full traceability of actions taken."
 -	Goal: Enable auditing of all data modifications.
 -	Outcome: AI developers have full visibility into changes and actions taken on the data.
+
+## References
+[1]Lecture slides Week-4-Analysis for developing path for processing the problem statement of the assignment.
+[2]Lecture slides Week-5-SRS for writing Requirements in correct form.
+[3]Lecture slide Week-6-Use-Cases for developing user stories.
+[4]Markdown Guide. (n.d.). Basic syntax. Markdown Guide. Retrieved February 10, 2025, from https://www.markdownguide.org/basic-syntax/
+[5]Microsoft. (n.d.). Copilot. Microsoft. https://copilot.cloud.microsoft/?fromcode=cmc&redirectid=324BF8029B384E2B91B0B0ECD36A67D4&auth=2
+[6]Prompt I have an AI AI developer client facing this problem... | Try in Microsoft 365 Copilot
+I have an AI AI developer client facing this problem AI developers want to have categorized training questions that are separate from the answers because AI developers care about self-affirmation. - AI developers want to know that the training data they are using is “balanced” (does not contain biases) because this will give them better AI models. what is the best way to solve this problems?
+
+Response
+
+It sounds like your client has some specific needs for their AI development process. Here are some suggestions to address these issues:
+Categorized Training Questions
+1.	Separate Storage: Store questions and answers in separate databases or files. This way, AI developers can access and review questions without seeing the answers.
+2.	Tagging System: Implement a tagging system to categorize questions based on topics, difficulty levels, or other relevant criteria. This helps in organizing and retrieving questions efficiently.
+3.	Self-Assessment Tools: Develop tools that allow AI developers to answer questions and then compare their answers with the correct ones. This can help with self-affirmation and learning.
+Ensuring Balanced Training Data
+1.	Bias Detection Tools: Use tools and libraries designed to detect and mitigate biases in datasets. Examples include IBM's AI Fairness 360 and Google's What-If Tool.
+2.	Diverse Data Sources: Ensure that the training data comes from diverse sources to minimize inherent biases. This includes considering different demographics, geographies, and contexts.
+3.	Regular Audits: Conduct regular audits of the training data to identify and address any biases. This can involve statistical analysis and manual reviews.
+4.	Feedback Loop: Implement a feedback loop where AI developers and users can report biases they encounter. This helps in continuously improving the dataset.
+By implementing these strategies, your client can create a more effective and fair AI development process. Does this help address the issues your client is facing? 
